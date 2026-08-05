@@ -1,4 +1,7 @@
-NOTAS DE GIT Y GITHUD
+git init     //Inicializa git
+git status   //muestra el estatutus del area de trabajo
+git add      //agrega todo el proyecto excepto lo incluido en .gitignore
 
-git init     //inicializar un proyecto
-git status   //visualizar el status dl proyecto
+
+git remote add origin     //
+git push -u origin main
