@@ -1,0 +1,4 @@
+NOTAS DE GIT Y GITHUD
+
+git init     //inicializar un proyecto
+git status   //visualizar el status dl proyecto
