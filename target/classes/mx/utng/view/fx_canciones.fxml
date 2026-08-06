@@ -111,9 +111,9 @@
 
                     <TableColumn fx:id="colTitulo" prefWidth="220" text="Título" />
 
-                    <TableColumn fx:id="colInterprete" prefWidth="180" text="Autor" />
+                    <TableColumn fx:id="colInterprete" prefWidth="180" text="Interprete" />
 
-                    <TableColumn fx:id="colGenero" prefWidth="160" text="Editorial" />
+                    <TableColumn fx:id="colGenero" prefWidth="160" text="Genero" />
 
                     <TableColumn fx:id="colAnio" prefWidth="80" text="Año" />
 

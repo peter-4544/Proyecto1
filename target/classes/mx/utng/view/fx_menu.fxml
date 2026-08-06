@@ -48,14 +48,6 @@
 
             <Button fx:id="btnLibros" onAction="#abrirLibros" prefHeight="40" prefWidth="190" text="🎵 Canciones" />
 
-            <Button fx:id="btnUsuarios" onAction="#abrirUsuarios" prefHeight="40" prefWidth="190" text="´🧑 Usuarios" />
-
-            <Button fx:id="btnPrestamos" onAction="#abrirPrestamos" prefHeight="40" prefWidth="190" text="📚 Bibloteca" />
-
-            <Button fx:id="btnDevoluciones" onAction="#abrirDevoluciones" prefHeight="40" prefWidth="190" text="📥 Descargas" />
-
-            <Button fx:id="btnReportes" onAction="#abrirReportes" prefHeight="40" prefWidth="190" text="📈 Reportes" />
-
             <Separator />
 
             <Button fx:id="btnCerrarSesion" onAction="#cerrarSesion" prefHeight="40" prefWidth="190" text="🚪 Cerrar sesión" />
